@@ -1,7 +1,7 @@
 import React from 'react'
-import Majorfinal from "./home_page/components/majorfinal";
-import Appber from "./home_page/components/appber";
-import Timedata from "./home_page/components/timedata";
+import Majorfinal from "./user/schedule/majorfinal";
+import Appber from "./user/appber/appber";
+import Timedata from "./user/components/timedata";
 
 function schedule_final() {
   return (

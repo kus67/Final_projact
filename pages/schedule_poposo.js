@@ -1,7 +1,7 @@
 import React from "react";
-import Majrpoposo from "./home_page/components/majorpoposo";
-import Appber from "./home_page/components/appber";
-import Timedata from "./home_page/components/timedata";
+import Majrpoposo from "./user/schedule/majorpoposo";
+import Appber from "./user/appber/appber";
+import Timedata from "./user/components/timedata";
 
 function schedule_poposo() {
   return (

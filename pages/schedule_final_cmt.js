@@ -1,7 +1,7 @@
 import React from 'react'
 import Appbarcmt from './committee/appbarcmt/appbarcmt'
-import Majorfinal from "./home_page/components/majorfinal";
-import Timedata from "./home_page/components/timedata";
+import Majorfinal from "./user/schedule/majorfinal";
+import Timedata from "./user/components/timedata";
 
 
 function Schedule_finalcmt() {

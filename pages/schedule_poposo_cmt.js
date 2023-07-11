@@ -1,7 +1,7 @@
 import React from 'react'
 import Appbarcmt from './committee/appbarcmt/appbarcmt'
-import Timedata from "./home_page/components/timedata";
-import Majrpoposo from "./home_page/components/majorpoposo";
+import Timedata from "./user/components/timedata";
+import Majrpoposo from "./user/schedule/majorpoposo";
 
 function schedule_poposo_cmt() {
   return (

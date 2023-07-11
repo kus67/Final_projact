@@ -1,11 +1,11 @@
 import React from 'react'
-import Login from './home_page/components/login'
- import Appbarcmt from './committee/appbarcmt/appbarcmt'
+import SignIn from './user/login_register/SignIn'
+import Register from './user/login_register/tae'
 function register_login() {
   return (
     <>
-      <Appbarcmt />
-    <Login />
+      <SignIn />
+      {/* <Register/> */}
     </>
   )
 }

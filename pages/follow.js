@@ -1,7 +1,7 @@
 import React from 'react'
-import Appber from "./home_page/components/appber";
-import Timedata from "./home_page/components/timedata";
-import Follow_students from "./home_page/components/follow_students";
+import Appber from "./user/appber/appber";
+import Timedata from "./user/components/timedata";
+import Follow_students from "./user/fowllow/follow_students";
 function Follow() {
     return (
         <>

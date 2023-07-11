@@ -1,8 +1,8 @@
 import React from "react";
-import Commend from "./home_page/components/commen";
-import Appber from "./home_page/components/appber";
-import Ml from "./user/ml";
-import Timedata from "./home_page/components/timedata";
+import Commend from "./user/report/commen";
+import Appber from "./user/appber/appber";
+import Ml from "./user/report/ml";
+import Timedata from "./user/components/timedata";
 
 function report() {
   return (

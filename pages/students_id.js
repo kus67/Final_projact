@@ -1,7 +1,7 @@
 import React from 'react'
-import Appber from "./home_page/components/appber";
+import Appber from "./user/appber/appber";
 
-import Student_id from "./home_page/components/students_id";
+import Student_id from "./user/user_id/students_id";
 
 function students_id() {
   return (

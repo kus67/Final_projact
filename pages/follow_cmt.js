@@ -1,6 +1,6 @@
 import React from 'react'
 import Appbarcmt from './committee/appbarcmt/appbarcmt'
-import Timedata from "./home_page/components/timedata";
+import Timedata from "./user/components/timedata";
 
 
 function follow_cmt() {
